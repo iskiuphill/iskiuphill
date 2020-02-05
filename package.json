@@ -1,0 +1,22 @@
+{
+  "name": "iskiuphill",
+  "version": "1.0.0",
+  "description": "Website that will display the current Uphill policy information for various ski resorts across the country!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iskiuphill/iskiuphill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iskiuphill/iskiuphill/issues"
+  },
+  "homepage": "https://github.com/iskiuphill/iskiuphill#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
