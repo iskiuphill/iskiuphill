@@ -2,8 +2,10 @@
   <div id="app">
 	<h1 class="title is-1">ISkiUphill</h1>
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/">Resorts</router-link> |
+      <router-link to="/about">About</router-link> |
+      <!-- <router-link to="/faq">FAQ</router-link> | -->
+      <a href='https://forms.gle/V4RQ1PuPnpe3EG5G6'>Submit New Resort</a>
     </div>
     <router-view/>
   </div>

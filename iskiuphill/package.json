@@ -8,8 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "buefy": "^0.8.10",
+    "buefy": "^0.9.4",
     "core-js": "^3.4.4",
+    "firebase-admin": "^8.9.2",
     "vue": "^2.6.10",
     "vue-gtag": "^1.2.0",
     "vue-router": "^3.1.3"

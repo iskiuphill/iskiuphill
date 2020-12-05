@@ -1,17 +1,24 @@
 <template>
   <div class="home">
-    <HelloWorld/>
+    <Resorts/>
+    <footer class="footer">
+      <div class="content has-text-centered">
+        <p>
+          <strong>ISkiUphill</strong> by Reedster LLC © 2020
+        </p>
+      </div>
+    </footer>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
+import Resorts from '@/components/Resorts.vue'
 
 export default {
   name: 'home',
   components: {
-    HelloWorld
+    Resorts 
   }
 }
 </script>
