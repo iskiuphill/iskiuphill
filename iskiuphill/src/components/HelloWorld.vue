@@ -175,6 +175,21 @@ const RESORTS = [
     "twitterLink": "",
     "avalancheForecaster": "NWAC",
     "avalancheForecasterLink": "https://www.nwac.us/"
+  },
+  {
+    "skiResortName": "Bogus Basin",
+    "resortWebsite": "https://bogusbasin.org/",
+    "latLong": "43.764086,-116.1201264",
+    "region": "Rocky",
+    "openingMonth": "Dec",
+    "closingMonth": "Mar",
+    "snowConditionLink": "https://bogusbasin.org/the-mountain/overview/conditions-webcams/",
+    "uphillPolicy": "Yes",
+    "uphillPolicyLink": "https://bogusbasin.org/restrictions-policies/#uphill",
+    "facebookLink": "https://www.facebook.com/BogusBasinIdaho",
+    "twitterLink": "https://twitter.com/bogusbasin",
+    "avalancheForecaster": "IPAC",
+    "avalancheForecasterLink": "https://www.idahopanhandleavalanche.org/"
   }
 ]
 
