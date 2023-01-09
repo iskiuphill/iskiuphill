@@ -10,7 +10,7 @@
   "dependencies": {
     "buefy": "^0.9.4",
     "core-js": "^3.4.4",
-    "firebase-admin": "^8.9.2",
+    "firebase-admin": "^11.4.1",
     "vue": "^2.6.10",
     "vue-gtag": "^1.2.0",
     "vue-router": "^3.1.3"
